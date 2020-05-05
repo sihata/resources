@@ -1,2 +1,2 @@
 # resources
-Resources for the ਸਿਹਤ project
+Resources for the ਸਿਹਤ - SIHATA project
