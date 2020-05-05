@@ -1,4 +1,6 @@
-# resources
+# SIHATA
+## Social Initiatives for Healthcare Availability & Teleresources Accessibility
+
 Resources for the ਸਿਹਤ - SIHATA project
 
 ### Disclaimer:
